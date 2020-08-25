@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">単語帳</string>
+
+    <string name="change_color">画面の背景を切り替え</string>
+
+    <string name="word_list">登録されている単語一覧</string>
+
+    <string name="edit_list">問題と答えを入力</string>
+</resources>
